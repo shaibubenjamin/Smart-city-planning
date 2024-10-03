@@ -1,7 +1,9 @@
 # Smart City Planning for Healthcare Facility Distribution in Ikpoba-Okha
 
 This project focuses on the **distribution of healthcare facilities** within **Ikpoba-Okha**, a Local Government Area (LGA) in Edo State, Nigeria. By leveraging **geospatial data analysis** and **visualization tools**, this initiative aims to enhance decision-making around **urban development** and **resource allocation**, particularly in the healthcare sector.
-![https://github.com/shaibubenjamin/Smart-city-planning/blob/e54b44a51508668e2da597870a9deac5a394433a/Smart%20city%20Planning.PNG) 
+
+![Point-Ward-Mapping](https://github.com/shaibubenjamin/Smart-city-planning/blob/e54b44a51508668e2da597870a9deac5a394433a/Smart%20city%20Planning.PNG) 
+
 
 ## Project Overview
 
